@@ -72,7 +72,6 @@ PACKAGES="$PACKAGES luci-app-filetransfer"
 PACKAGES="$PACKAGES luci-app-poweroff"
 PACKAGES="$PACKAGES luci-app-ttyd"
 PACKAGES="$PACKAGES luci-app-diskman"
-PACKAGES="$PACKAGES luci-app-partexp"
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
 # 静态文件服务器dufs(推荐)
