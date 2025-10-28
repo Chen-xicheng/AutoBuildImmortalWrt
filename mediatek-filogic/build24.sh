@@ -64,7 +64,6 @@ PACKAGES="$PACKAGES luci-app-adguardhome"
 PACKAGES="$PACKAGES luci-app-unblockmusic"
 PACKAGES="$PACKAGES luci-app-linkease"
 PACKAGES="$PACKAGES luci-app-uugamebooster"
-PACKAGES="$PACKAGES luci-app-leigod-acc"
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
 # 静态文件服务器dufs(推荐)
